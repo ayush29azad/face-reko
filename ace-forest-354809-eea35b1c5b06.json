@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ace-forest-354809",
+  "private_key_id": "eea35b1c5b06a2f6ab9e15cec2af42199e76d484",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnSHhauexviGfp\nnTfJ766aEFX8Qb9/TCISl3plJpj+ybhbgIR5OsxkKni6y/Dubei+eUO7WPOJunEI\nvqvfiGjai4lHtyqFaXxHA7dzvFY61s718iR3muZM/zwWem3Lf+XiPSnwId7iY3h0\nFbtFkYsEpx9DwOFpMDaBTpCxlo2aklCDlmXZF6S784yC8AtoPl6ndtWw1Qz4psPn\ngoYHUbGwFWqk8QpRsFQM6pnR3cm72CR4R8MoIZ87QPDchodQzXYaWlFdDuAvcY2N\nq0Q0wZVqJx3fAjVGKT16ULPtWbibM72bDXy4v0RgaxHmKOd0lHvVQCo/XaF+NbIb\njQL7zQTZAgMBAAECggEACJBKMQLRmsgV4by9rWXKv3JUpIxNHFwuZltA1crLDEgR\nWwXSQk6DRiFyesWT+PDBeHbGw+GC3isgPD1emRvnmkCIb5Zt49SJmy0SiCc9FtgG\nUkrqGQFiBtEOJ2xvEHrkrtdIvVVOjrJe6Tpvktknj75qeFJ4d6UTNT1rZNv7Nc1w\nVyPjoAn1tRXFo2rdYiPKY8e0NxU6Y5fIMTLYfNzuvShwUmjQ/a9JZivvoCvn63k7\nScJWmAz+T6YUo+SWD0sZ+kPhIUkXfUXFpvadQ1PhEtHau5+q5wtf1JoO9OiJcY4f\nstSp2/wbSCQYj4guZPtmHCVEHKAKiiqHW89Lkt0V/QKBgQDshX0AGVcBhzChIVDP\nmLgLWsot4rueTrvDIm7zRcNoBSe6IneniAuP8+WMZMhUud4rK9BNGRSEYAOziVHG\n5I6zba7Eh0mydqKh/u/SjRG/DpkIcQLkA6BqE8PD1nODcxgfKVB7oikLCfFmvqDh\n2KlzZWKBVhdFpNY05jl/Ayq1pwKBgQC1D0AGc2dhlMqls4i9OM+c9zTvUXYHg602\nkM4pGORQEgBsdUNVA8Qe3VMM9ceyQDqfG6kbr2W+GReF9+3ea2S9OptEaPGazxGx\nIPyXH+5gQxEhwSNee4MwVzjO5lUM7/srnDZGZiys19uqa3YsIVA0f8jiroJSOA+i\nkkp7fUbBfwKBgHEb4Uxj0dz0NshHs2qjwRgFAfzxmgG560cFN4P1T9514Kq+AvTG\nNalQ3OzH4ZnLDTkeCc5k+Q/ZDswUFlyEPs4F3Pc1L4Q+AcZwsWXCesMgiwSjbtt1\n9IfmDc+gxbsOFnIIgumtAe26gow9C5kV0OtTh8kMT7LJgnrnwoVAEXOvAoGAORVD\nxETiFRvKAA/oTm/41K4DnGf8ZEYZeBiTRtW4NZ5XT9pwjf8P+AMjSfS7LvGdCci4\nuifEVfinN++AqR0Gt7ogdaL4eSxLkaKqwCKrDuJWJmQz+HfMVpNJL8Hikp+eepNX\ncT6JWzz63nHe4e7m0IZxGTaXk8Bk/YZNwT0v75UCgYEA3Z7JIxnqk3rvkBS0oB8z\niwjeNJDiMqhWicFpOUi4ppT6nsndZm8c+gjA1Y5KMEb9hg6edlXCCb5aabolM9fR\n0of+b7C21N2RxD6SiHK/HyrJWyiUL0BDqiCzd8wnDV/NDR7VLHLxjpUV+SHMCWZi\nEUUSWAhQjR4tAm7CFl2IuzU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "jaguar-service-account@ace-forest-354809.iam.gserviceaccount.com",
+  "client_id": "103160986651639981873",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jaguar-service-account%40ace-forest-354809.iam.gserviceaccount.com"
+}

@@ -1,0 +1,26 @@
+# start by pulling the python image
+FROM python:3.9
+
+# copy the requirements file into the image
+COPY ./requirements.txt /app/requirements.txt
+
+# switch working directory
+WORKDIR /app
+
+#update pip 
+
+RUN pip install --upgrade pip
+RUN  pip3 install cmake
+RUN  pip3 install dlib
+# install the dependencies and packages in the requirements file
+RUN pip install -r requirements.txt
+
+RUN apt-get update
+
+RUN apt-get install ffmpeg libsm6 libxext6  -y
+
+# copy every content from the local file to the image
+COPY . /app
+
+# configure the container to run in an executed manner
+CMD ["python3", "app.py"]
